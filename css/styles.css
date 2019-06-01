@@ -40,10 +40,11 @@
   text-decoration: underline;
 }
 
-/*#Create {
-	color: darkgray;
+#Create {
+  color: darkgray;
 }
-#Create:hover {
+
+/*#Create:hover {
 	color: black;
 	font-size: larger;
 	text-decoration: underline;
