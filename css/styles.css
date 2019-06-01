@@ -19,17 +19,18 @@
   padding-bottom: 50px;
 }
 
-/*#Signin {
-	width: 550px;
-	padding-bottom: 50px;
-	background-color: whitesmoke;
-	border-bottom-color: limegreen;
-	border-right-color:limegreen;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-radius: 30px;
+#Signin {
+  width: 550px;
+  padding-bottom: 50px;
+  background-color: whitesmoke;
+  border-bottom-color: limegreen;
+  border-right-color: limegreen;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-radius: 30px;
 }
-#Login {
+
+/*#Login {
 	color: limegreen;
 }
 #Login:hover {
