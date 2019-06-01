@@ -13,13 +13,13 @@
   height: 1.5em;
 }
 
-/*#FormChallange {
-	background-color: paleturquoise;
-	padding-top: 50px;
-	padding-bottom: 50px;
+#FormChallange {
+  background-color: paleturquoise;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
-#Signin {
+/*#Signin {
 	width: 550px;
 	padding-bottom: 50px;
 	background-color: whitesmoke;
