@@ -44,12 +44,13 @@
   color: darkgray;
 }
 
-/*#Create:hover {
-	color: black;
-	font-size: larger;
-	text-decoration: underline;
+#Create:hover {
+  color: black;
+  font-size: larger;
+  text-decoration: underline;
 }
-input {
+
+/*input {
 	width: 75%;
 	border-radius: 20px
 }
