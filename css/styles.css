@@ -50,11 +50,12 @@
   text-decoration: underline;
 }
 
-/*input {
-	width: 75%;
-	border-radius: 20px
+input {
+  width: 75%;
+  border-radius: 20px
 }
-button {
+
+/*button {
 	width: 125px;
 	border-radius: 30px;
 }
