@@ -34,12 +34,13 @@
   color: limegreen;
 }
 
-/*#Login:hover {
-	color: yellow;
-	font-size: larger;
-	text-decoration: underline;
+#Login:hover {
+  color: yellow;
+  font-size: larger;
+  text-decoration: underline;
 }
-#Create {
+
+/*#Create {
 	color: darkgray;
 }
 #Create:hover {
