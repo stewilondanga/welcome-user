@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,47 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+#FormChallange {
+	background-color: paleturquoise;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#Signin {
+	width: 550px;
+	padding-bottom: 50px;
+	background-color: whitesmoke;
+	border-bottom-color: limegreen;
+	border-right-color:limegreen;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-radius: 30px;
+}
+#Login {
+	color: limegreen;
+}
+#Login:hover {
+	color: yellow;
+	font-size: larger;
+	text-decoration: underline;
+}
+#Create {
+	color: darkgray;
+}
+#Create:hover {
+	color: black;
+	font-size: larger;
+	text-decoration: underline;
+}
+input {
+	width: 75%;
+	border-radius: 20px
+}
+button {
+	width: 125px;
+	border-radius: 30px;
 }
 
 .containers {
